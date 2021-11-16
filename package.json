@@ -1,0 +1,17 @@
+{
+  "name": "petstore-mock-server",
+  "version": "0.1.0",
+  "description": "A Prism mock server of the open source Petstore OpenAPI",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agilepathway/petstore-mock-server.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/agilepathway/petstore-mock-server/issues"
+  },
+  "homepage": "https://github.com/agilepathway/petstore-mock-server#readme"
+}
